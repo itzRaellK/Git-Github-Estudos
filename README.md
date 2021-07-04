@@ -1,6 +1,6 @@
 ## Primeiros conceitos sobre Tag e Branch
 
-É preciso entender que o Git passou por uma transição que passou a permitir a mudança de Branches nos projetos. Isso pode gerar conflitos se o Dev não souber em qual Branch fazer o commit, gerando assim algum imprevisto que poderia ser facilmente contornado.
+É preciso entender que o Git passou por uma transição que passou a permitir a mudança de Branchs nos projetos. Isso pode gerar conflitos se o Dev não souber em qual Branch fazer o commit, gerando assim algum imprevisto que poderia ser facilmente contornado.
 
 - Para criar uma tag no Git é só executar o comando "git tag" especificando uma versão para o projeto e facilitando na hora de identificar qual tag seria aquela.
 
