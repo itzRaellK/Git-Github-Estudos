@@ -13,5 +13,5 @@
 - 
 - 
 - 
-- Primeiros conceitos sobre Tag e Branch
+- Primeiros conceitos sobre tag e branch
 
