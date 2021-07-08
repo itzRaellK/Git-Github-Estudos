@@ -6,10 +6,12 @@
 - 04 - git status, git push e  git pull
 - 05 - git clone
 - 06 - git rm
+- 07 - git log
+- 08 - git mv
+- 09 - git checkout
 - 
 - 
 - 
 - 
-
 - Primeiros conceitos sobre Tag e Branch
 
