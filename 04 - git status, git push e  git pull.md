@@ -1,6 +1,6 @@
 ## git status, git push e  git pull
 
-Para manter os arquivos locais atualizados e saber quais arquivos estará enviando para o **repositório remoto**, utilizamos alguns comandos que facilitam o controle de versão. 
+​	Para manter os arquivos locais atualizados e saber quais arquivos estará enviando para o **repositório remoto**, utilizamos alguns comandos que facilitam o controle de versão. 
 
 - O primeiro é **git status**. Esse comando retornará uma lista com todos os arquivos que foram **modificados**, **adicionados** e que estão em estado de **untracked**.
 
