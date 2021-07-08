@@ -16,7 +16,8 @@ Para manter os arquivos locais atualizados e saber quais arquivos estará envian
 
 - O terceiro comando é o **git pull**. Esse comando irá trazer o **repositório remoto** para o seu **repositório local**. É usado esse comando em casos onde **repositório remoto** tenha alguma atualização ou modificação.
 
-```
-$ git pull
-```
+  ```
+  $ git pull
+  ```
 
+  
