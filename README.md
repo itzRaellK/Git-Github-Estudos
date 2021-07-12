@@ -48,4 +48,4 @@
 
 - 09 - Verificando e alterando tags
 
-- 10 - 10 - Enviando tags para o repositório
+- 10 - Enviando tags para o repositório
