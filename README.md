@@ -28,7 +28,7 @@
 
   
 
-- [ ] **Trabalhando com branch**
+- [x] **Trabalhando com branch**
 
 - 01 - Criando e visualizando branchs
 
@@ -47,3 +47,5 @@
 - 08 - Utilizando tags
 
 - 09 - Verificando e alterando tags
+
+- 10 - 10 - Enviando tags para o repositório
