@@ -4,9 +4,7 @@
 
 ```
 $ git branch
-```
 
-```
 $ git branch nova_funcionalidade
 ```
 

@@ -6,8 +6,8 @@
 $ git stash list
 ```
 
+​	O comando para recuperar é seguido com a palavra **apply** e um número que representa o stash que você deseja recuperar. Você tem acesso a essa list utilizando o **git stash list**.
+
 ```
 $ git stash apply 0
 ```
-
-​	O comando para recuperar é seguido com a palavra **apply** e um número que representa o stash que você deseja recuperar. Você tem acesso a essa list utilizando o **git stash list**.

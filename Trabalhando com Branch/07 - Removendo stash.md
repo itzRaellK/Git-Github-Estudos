@@ -4,8 +4,6 @@
 
 ```
 $ git stash clear
-```
 
-```
 $ git stash drop
 ```

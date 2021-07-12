@@ -31,9 +31,19 @@
 - [ ] **Trabalhando com branch**
 
 - 01 - Criando e visualizando branchs
+
 - 02 - Deletando branchs
+
 - 03 - Mudando de branch
+
 - 04 - Unindo branchs
+
 - 05 - stash
+
 - 06 - Recuperando stash
+
 - 07 - Removendo stash
+
+- 08 - Utilizando tags
+
+- 09 - Verificando e alterando tags
