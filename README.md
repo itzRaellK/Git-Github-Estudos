@@ -1,4 +1,4 @@
-## 																									Estudos Git / Github
+## 																									**Estudos Git / Github
 
 - [x] **Git Fundamental**
 
@@ -30,6 +30,8 @@
 
 - [x] **Trabalhando com branch**
 
+  
+
 - 01 - Criando e visualizando branchs
 
 - 02 - Deletando branchs
@@ -49,3 +51,17 @@
 - 09 - Verificando e alterando tags
 
 - 10 - Enviando tags para o repositório
+
+- [x] **Compartilhamento e atualização de repositórios**
+
+- 01 - git fetch
+
+- 02 - git pull
+
+- 03 - git push
+
+- 04 - git remote
+
+- 05 - git submodule
+
+- 06 - git push --recurse-submodules=on-demand
